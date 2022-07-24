@@ -2,20 +2,20 @@ Circuit: * C:\Users\lunaa\Documents\GitHub\E344\GitRepo\LTSpice\E344_Ass1_CurrSe
 
 Direct Newton iteration for .op point succeeded.
 
-Date: Fri Jul 22 16:25:35 2022
-Total elapsed time: 0.553 seconds.
+Date: Sun Jul 24 13:48:02 2022
+Total elapsed time: 0.243 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 74312
-traniter = 74288
-tranpoints = 30256
-accept = 21477
-rejected = 8779
+totiter = 37784
+traniter = 37761
+tranpoints = 17224
+accept = 11296
+rejected = 5928
 matrix size = 18
-fillins = 8
+fillins = 9
 solver = Normal
-Matrix Compiler1: 1.52 KB object code size  1.1/0.6/[0.3]
-Matrix Compiler2: off  [0.4]/0.7/0.6
+Matrix Compiler1: 1.56 KB object code size  0.3/0.1/[0.1]
+Matrix Compiler2: off  [0.1]/0.2/0.1
 
