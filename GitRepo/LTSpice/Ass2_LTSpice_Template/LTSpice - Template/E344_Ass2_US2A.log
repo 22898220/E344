@@ -1,0 +1,53 @@
+Circuit: * C:\Users\lunaa\Documents\GitHub\E344\GitRepo\LTSpice\Ass2_LTSpice_Template\LTSpice - Template\E344_Ass2_US2A.asc
+
+Limiting rise time of source v3 to 0.0003
+Limiting fall time of source v3 to 0.0003
+Limiting rise time of source v6 to 0.0006
+Limiting fall time of source v6 to 0.0006
+Limiting rise time of source v5 to 5e-005
+Limiting fall time of source v5 to 5e-005
+Limiting rise time of source v12 to 0.0006
+Limiting fall time of source v12 to 0.0006
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+vernier = 0.5
+Gmin = 4.67527e-007
+vernier = 0.666667
+vernier = 0.888888
+Gmin = 8.30855e-008
+vernier = 1
+Gmin = 9.33136e-009
+Gmin = 1.00195e-009
+Gmin = 1.07583e-010
+Gmin = 1.15517e-011
+Gmin = 1.24035e-012
+Gmin = 1.33182e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+Date: Wed Aug 03 18:41:28 2022
+Total elapsed time: 0.196 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 17927
+traniter = 17329
+tranpoints = 8654
+accept = 6922
+rejected = 1732
+matrix size = 23
+fillins = 16
+solver = Normal
+Matrix Compiler1: 1.88 KB object code size  0.6/0.3/[0.2]
+Matrix Compiler2: off  [0.3]/0.6/0.5
+
