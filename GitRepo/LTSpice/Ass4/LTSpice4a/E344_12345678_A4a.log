@@ -154,21 +154,21 @@ vernier = 0.00211414
 Source stepping succeeded in finding the operating point.
 
 
-Date: Sat Aug 27 12:41:46 2022
-Total elapsed time: 1.171 seconds.
+Date: Thu Oct 13 15:40:32 2022
+Total elapsed time: 1.189 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 19479
-traniter = 12619
-tranpoints = 3346
-accept = 2744
-rejected = 602
+totiter = 19936
+traniter = 13076
+tranpoints = 3390
+accept = 2777
+rejected = 613
 matrix size = 140
 fillins = 253
 solver = Normal
-Thread vector: 38.6/10.0[3] 2.1/1.4[3] 2.2/1.0[3] 1.6/0.6[2]  2592/500
-Matrix Compiler1: 22.70 KB object code size  4.7/1.9/[1.0]
-Matrix Compiler2: 15.87 KB object code size  2.2/4.5/[1.6]
+Thread vector: 5.3/6.4[1] 2.4/3.1[1] 5.1/2.2[3] 1.5/2.2[1]  2592/500
+Matrix Compiler1: 22.70 KB object code size  5.2/2.6/[1.2]
+Matrix Compiler2: 15.87 KB object code size  3.7/5.8/[1.5]
 
